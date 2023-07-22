@@ -4,8 +4,6 @@ My apologies for the misunderstanding. Let's create a simple GitHub README for a
 
 This is a lightweight, independent video platform that allows users to view videos with thumbnails and perform searches. The platform is built using HTML, CSS, and JavaScript, without any external dependencies.
 
-![Demo Image](demo.png)
-
 ## Features
 
 - Display video thumbnails on the homepage
