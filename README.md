@@ -10,7 +10,7 @@ This is a lightweight, independent video platform that allows users to view vide
 
 ## Demo
 
-[Live Demo](https://crazycrixar.github.io/)
+[Live Demo](https://thatdudejr.github.io/)
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ open index.html (done)
 
 ## Future Improvements
 
-This is a basic implementation of the video platform. There are several ways you can enhance it:
+This is a just a basic implementation of the video platform (probably wont update this project anymore)
 
 - Allow users to upload their own videos.
 - Improve the UI/UX to make it more appealing and user-friendly.
@@ -38,4 +38,3 @@ Contributions are welcome! If you have any ideas or improvements, feel free to o
 
 [MIT License](LICENSE)
 
-Feel free to modify and expand on this README to suit your specific project. Replace the placeholders with your project's information, and don't forget to add a screenshot or demo link to showcase your video platform.
